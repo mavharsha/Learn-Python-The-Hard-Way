@@ -1,2 +1,2 @@
 # [Learn Python The Hard Way] (http://learnpythonthehardway.org/book/index.html)
-On the way to become programming ninja. :D
+On my way to become a programming ninja. :D
